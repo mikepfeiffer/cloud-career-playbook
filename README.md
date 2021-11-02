@@ -3,8 +3,8 @@ There's so much opportunity when it comes to working in cloud but it can be conf
 
 In this playbook I'll be sharing text, video, and audio resources for each of the core "career domains" listed in the table below. You can work through each domain in order, but feel free to jump around.
 
-**Topic**|** Link**
-:-----:|:-----:
+**Topic**|**Link**
+:-----|:-----
 Cloud Platform Foundations| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/1-cloud-platform-foundations)
 Command Line Essentials| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/2-command-line-essentials)
 Sysadmin Fundamentals| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/3-sysadmin-fundamentals)
