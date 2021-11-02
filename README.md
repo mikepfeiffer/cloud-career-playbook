@@ -5,8 +5,8 @@ In this playbook I'll be sharing text, video, and audio resources for each of th
 
 **Topic**|**Link**
 :-----|:-----
-Cloud Platform Foundations| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/1-cloud-platform-foundations)
-Command Line Essentials| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/2-command-line-essentials)
+☁️ Cloud Platform Foundations| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/1-cloud-platform-foundations)
+⌨️ Command Line Essentials| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/2-command-line-essentials)
 Sysadmin Fundamentals| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/3-sysadmin-fundamentals)
 Distributed Version Control| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/4-distributed-version-control)
 Infrastructure as Code| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/5-infrastructure-as-code)
