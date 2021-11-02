@@ -5,10 +5,10 @@ In this playbook I'll be sharing text, video, and audio resources for each of th
 
 **Topic**|**Link**
 :-----|:-----
-1. Cloud Platform Foundations| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/1-cloud-platform-foundations)
-2. Command Line Essentials| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/2-command-line-essentials)
-3. Sysadmin Fundamentals| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/3-sysadmin-fundamentals)
-4. Distributed Version Control| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/4-distributed-version-control)
+Cloud Platform Foundations| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/1-cloud-platform-foundations)
+Command Line Essentials| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/2-command-line-essentials)
+Sysadmin Fundamentals| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/3-sysadmin-fundamentals)
+Distributed Version Control| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/4-distributed-version-control)
 Infrastructure as Code| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/5-infrastructure-as-code)
 CI/CD Pipeline Architecture| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/6-ci-cd-pipelines)
 Programming & Software Development| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/7-programming-development)
