@@ -1,7 +1,7 @@
 # cloud-career-playbook
 There's so much opportunity when it comes to working in cloud but it can be confusing to get started because there is so much to learn. My goal with this project is to give you a map that will keep you on course as you build up your career in the cloud.
 
-I'll be sharing text, video, and audio resources for each of the core "career domains" that I've identified which include:
+In this playbook I'll be sharing text, video, and audio resources for each of the core "career domains" that you'll need to study which include:
 
 * Cloud Platform Foundations
 * Command Line Essentials
