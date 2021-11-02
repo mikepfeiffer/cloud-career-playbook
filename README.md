@@ -11,7 +11,7 @@ In this playbook I'll be sharing text, video, and audio resources for each of th
 🌐 Distributed Version Control| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/4-distributed-version-control)
 🧰 Infrastructure as Code| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/5-infrastructure-as-code)
 🚉 CI/CD Pipeline Architecture| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/6-ci-cd-pipelines)
-🧑‍💻 Programming & Software Development| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/7-programming-development)
+👨‍💻 Programming & Software Development| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/7-programming-development)
 📦 Containers & Orchestration| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/8-containers-orchestration)
 ⏰ Monitoring & Observability| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/9-monitoring-observability)
 ⚙️ Serverless Computing| [Start Now](https://github.com/mikepfeiffer/cloud-career-playbook/tree/main/domains/10-serverless-computing)
