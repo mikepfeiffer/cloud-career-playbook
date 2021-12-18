@@ -17,11 +17,11 @@ This domain will help you become familiar with general cloud concepts. Specifica
 
 ## AWS
 
-[How AWS Works](https://aws.amazon.com/startups/start-building/how-aws-works/)
-[Managing Resources on AWS](https://docs.aws.amazon.com/ARG/latest/userguide/resource-groups.html)
-[How Identity and Access Management Works on AWS](https://docs.aws.amazon.com/IAM/latest/UserGuide/intro-structure.html)
-[Establishing your best practice AWS environment](https://aws.amazon.com/organizations/getting-started/best-practices/)
-[Organizing Your AWS Environment Using Multiple Accounts](https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/organizing-your-aws-environment.pdf)
+- [How AWS Works](https://aws.amazon.com/startups/start-building/how-aws-works/)
+- [Managing Resources on AWS](https://docs.aws.amazon.com/ARG/latest/userguide/resource-groups.html)
+- [How Identity and Access Management Works on AWS](https://docs.aws.amazon.com/IAM/latest/UserGuide/- intro-structure.html)
+- [Establishing your best practice AWS environment](https://aws.amazon.com/organizations/- getting-started/best-practices/)
+- [Organizing Your AWS Environment Using Multiple Accounts](https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/organizing-your-aws-environment.pdf)
 
 ## GCP
 
